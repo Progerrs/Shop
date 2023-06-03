@@ -1,0 +1,18 @@
+:root {
+    --primary: #0082c5;
+    --primary-hover: #004076;
+    --primary-active: #122d44;
+    --disable: #c6cdd2;
+    --second: #BE52F2;
+    --second-hover: #DBA5F5;
+    --success: #00C48C;
+    --success-hover: #7DDFC3;
+    --info: #0084F4;
+    --info-hover: #66B5F8;
+    --warning: #FFA26B;
+    --warning-hover: #FFC7A6;
+    --danger: #FF647C;
+    --danger-hover: #FDAFBB;
+    --font-size: 16px;
+    --spacing: 1rem;
+}
